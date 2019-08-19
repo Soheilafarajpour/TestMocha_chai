@@ -1,0 +1,24 @@
+{
+  "name": "TestMocha_chai",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "*YOUR GITHUB URL*"
+  },
+  "bugs": {
+    "url": "*YOUR GITHUB URL*/issues"
+  },
+  "homepage": "*YOUR GITHUB URL*#readme",
+  "description": ""
+}
